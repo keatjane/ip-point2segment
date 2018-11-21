@@ -1,5 +1,3 @@
-# ip-point2segment
-
 Proj.py is the main python file to run the code
 
 image_name is the image used in the code
