@@ -1,0 +1,13 @@
+#YAML 1.0
+
+
+image: 
+    
+  file_name: "PR_20180806_170412_083_AC16.png"
+  bbox: 410
+  id_no: 0
+  graphing: "on"
+  superpixel: "on"
+  label_file: "total_coords.xlsx"
+  k_thres: 0.99
+  slices: 500
